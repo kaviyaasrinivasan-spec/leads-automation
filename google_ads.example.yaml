@@ -1,0 +1,6 @@
+# Copy to google_ads.yaml and fill in your values (google_ads.yaml is gitignored)
+developer_token: YOUR_DEVELOPER_TOKEN
+client_id: YOUR_CLIENT_ID.apps.googleusercontent.com
+client_secret: YOUR_CLIENT_SECRET
+refresh_token: YOUR_REFRESH_TOKEN
+use_proto_plus: True

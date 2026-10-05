@@ -1,0 +1,18 @@
+# Credentials - never commit
+google_ads.yaml
+client_secret*.json
+token*.json
+.env
+*.env
+
+# WhatsApp/Chrome browser session (contains login cookies)
+whatsapp_session/
+
+# Screenshots generated at runtime
+*.png
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
